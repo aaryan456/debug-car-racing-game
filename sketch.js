@@ -9,13 +9,13 @@ var score = 0;
 var posY = -5000,posX = -500
 
 function preload(){
-  playerimg = loadImage("images/police.jpg");
-  carImg1 = loadImage("images/car1.jpg");
-  carImg2 = loadImage("images/car2.jpg");
-  carImg3 = loadImage("images/car3.jpg");
-  carImg4 = loadImage("images/car4.jpg");
-  carImg5 = loadImage("images/car5.jpg");
-  track = loadImage("images/track.jpg");
+  playerimg = loadImage("police.jpg");
+  carImg1 = loadImage("car1.jpg");
+  carImg2 = loadImage("car2.jpg");
+  carImg3 = loadImage("car3.jpg");
+  carImg4 = loadImage("car4.jpg");
+  carImg5 = loadImage("car5.jpg");
+  track = loadImage("track.jpg");
   
 }
 
